@@ -1,3 +1,4 @@
+
 /*1a: ArrayList- Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList
 and a LinkedList to perform the following operations with different functions directed as
 follows   : 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4.
@@ -6,7 +7,7 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 
 import java.util.*;
 
-public class ArrayListdemo {
+public class ArrayListDemo{
     public static void main(String[] args) {
         List<String> arrayList = new ArrayList<>();
 

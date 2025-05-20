@@ -15,7 +15,7 @@ public class Removenth {
         colors.add("Green");
         colors.add("Blue");
         colors.add("Yellow");
-        colors.add("Purple");
+        colors.add("Purple");   
 
         System.out.println("Original Color List: " + colors);
 
