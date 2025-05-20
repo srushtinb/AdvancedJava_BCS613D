@@ -162,7 +162,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="FactorialCalculatorDemo" path="/FactorialCalculatorDemo" reloadable="true" source="org.eclipse.jst.jee.server:FactorialCalculatorDemo"/><Context docBase="PrimeNumber" path="/PrimeNumber" reloadable="true" source="org.eclipse.jst.jee.server:PrimeNumber"/><Context docBase="SessionManageJSP" path="/SessionManageJSP" reloadable="true" source="org.eclipse.jst.jee.server:SessionManageJSP"/><Context docBase="Coffee" path="/Coffee" reloadable="true" source="org.eclipse.jst.jee.server:Coffee"/><Context docBase="EmpolyeeJDBC_9" path="/EmpolyeeJDBC_9" reloadable="true" source="org.eclipse.jst.jee.server:EmpolyeeJDBC_9"/><Context docBase="EmployeeJDBC" path="/EmployeeJDBC" reloadable="true" source="org.eclipse.jst.jee.server:EmployeeJDBC"/></Host>
+      <Context docBase="FactorialCalculatorDemo" path="/FactorialCalculatorDemo" reloadable="true" source="org.eclipse.jst.jee.server:FactorialCalculatorDemo"/><Context docBase="PrimeNumber" path="/PrimeNumber" reloadable="true" source="org.eclipse.jst.jee.server:PrimeNumber"/><Context docBase="SessionManageJSP" path="/SessionManageJSP" reloadable="true" source="org.eclipse.jst.jee.server:SessionManageJSP"/><Context docBase="Coffee" path="/Coffee" reloadable="true" source="org.eclipse.jst.jee.server:Coffee"/><Context docBase="EmployeeJDBC" path="/EmployeeJDBC" reloadable="true" source="org.eclipse.jst.jee.server:EmployeeJDBC"/></Host>
     </Engine>
   </Service>
 </Server>
