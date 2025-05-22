@@ -1,4 +1,4 @@
-📌 **Program: ArrayList Programs**
+📌 **Program: Linked List Programs**
 
 
 - [Iterate Output](Linked1.png)
