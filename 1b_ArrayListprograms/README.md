@@ -1,4 +1,4 @@
-📌 **Program: ArrayListDemo and LinkedListDemo**
+📌 **Program: ArrayList Programs**
 
 
 - [SearchRed Output](Arraylist1.png)
